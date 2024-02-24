@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saiful Shaik
 ====================================================================================================================================
 
-Developer, Freelancer & Entrepreneur.
+Full Stack Developer, Freelancer & Entrepreneur.
 -------------------------------------
 
 My name is Saiful Shaik and I am a 15 year old full stack developer. My journey is driven by a passion to leverage my extensive technical knowledge and honed programming prowess to make impactful contributions across diverse projects. I have a year of experience in developing. A few years of experience in freelancing.
@@ -10,7 +10,7 @@ My name is Saiful Shaik and I am a 15 year old full stack developer. My journey 
 * ✉️  You can contact me at [Saifulshaik47@gmail.com](mailto:Saifulshaik47@gmail.com)
 * 🧠  I'm learning Java and C++.
 * 🤝  I'm open to collaborating on website development and object-oriented programming projects.
-* ⚡  I eagerly anticipate expanding my knowledge further through continued learning.
+* ⚡  I am eager to explore new opportunities, motivated by a genuine desire to expand my knowledge through ongoing learning experiences.
 
 ### Skills
 
