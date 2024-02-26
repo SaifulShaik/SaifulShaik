@@ -6,7 +6,7 @@ Full Stack Developer, Freelancer & Entrepreneur.
 
 My name is Saiful Shaik and I am a 15 year old full stack developer. My journey is driven by a passion to leverage my extensive technical knowledge and honed programming prowess to make impactful contributions across diverse projects. I have a year of experience in developing. A few years of experience in freelancing.
 
-* 🔭  I’m currently working on a unity game **Space Destination**
+* 🔭  I’m currently working on a unity game (**GAME NAME:** Space Destination)
 * 🧠  I'm learning Java and C++.
 * 🤝  I'm open to collaborating on website development and object-oriented programming projects.
 * 🌍  I'm based in Markham, ON
