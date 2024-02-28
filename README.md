@@ -11,9 +11,9 @@ My name is Saiful Shaik and I am a 15 year old full stack developer. My journey 
 * 🔭  I’m currently working on a unity game (**GAME NAME: Space Destination**)
 * 🧠  I'm learning Java and C++.
 * 🤝  I'm open to collaborating on website development and object-oriented programming projects.
+* ⚡  I am eager to explore new opportunities, motivated by a genuine desire to expand my knowledge through ongoing learning experiences.
 * 🌍  I'm based in Markham, ON
 * ✉️   You can contact me at [Saifulshaik47@gmail.com](mailto:Saifulshaik47@gmail.com)
-* ⚡  I am eager to explore new opportunities, motivated by a genuine desire to expand my knowledge through ongoing learning experiences.
 
 ### Skills
 
