@@ -6,7 +6,7 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 Full Stack Developer, Freelancer & Entrepreneur.
 -------------------------------------
 
-My name is Saiful Shaik and I am a 15 year old full stack developer. My journey is driven by a passion to leverage my extensive technical knowledge and honed programming prowess to make impactful contributions across diverse projects. I have a year of experience in developing. A few years of experience in freelancing.
+My name is Saiful Shaik and I am a 16 year old full stack developer. My journey is driven by a passion to leverage my extensive technical knowledge and honed programming prowess to make impactful contributions across diverse projects. I have a year of experience in developing. A few years of experience in freelancing.
 
 * 🔭  I’m currently working on a unity game (**GAME NAME: Space Destination**)
 * 🧠  I'm learning Java and C++.
